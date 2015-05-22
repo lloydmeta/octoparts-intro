@@ -135,6 +135,12 @@ response = client.invoke(aggregate_request)
 
 --
 
+### Conclusion
+
+Give it a try :) Bugs, PRs, ideas area welcome :)
+
+--
+
 ### Resources
 
 * [GitHub](https://github.com/m3dev/octoparts)
